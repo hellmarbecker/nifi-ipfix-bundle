@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nifi-getIpfix-nar/nifi-getIpfix-nar.iml" filepath="$PROJECT_DIR$/nifi-getIpfix-nar/nifi-getIpfix-nar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-getIpfix-processors/nifi-getIpfix-processors.iml" filepath="$PROJECT_DIR$/nifi-getIpfix-processors/nifi-getIpfix-processors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-ipfix-bundle.iml" filepath="$PROJECT_DIR$/nifi-ipfix-bundle.iml" />
+    </modules>
+  </component>
+</project>

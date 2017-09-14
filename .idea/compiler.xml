@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="nifi-getIpfix-nar" />
+        <module name="nifi-getIpfix-processors" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="nifi-getIpfix-nar" target="1.8" />
+      <module name="nifi-getIpfix-processors" target="1.8" />
+      <module name="nifi-ipfix-bundle" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
